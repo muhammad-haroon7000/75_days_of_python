@@ -25,5 +25,6 @@ venv/
 #Example to ignore file in specific directory
 data/ignore_me.txt
 
+
 #jupyter notebook generate file 
 .ipynb_checkpoints
