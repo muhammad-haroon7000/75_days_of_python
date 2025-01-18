@@ -1,9 +1,5 @@
 # 75 Days of Python
 
-I will post daily code updates with explanations. The code will be written in Jupyter Notebooks to facilitate clearer explanations.
-
-# 75 Days of Python
-
 This repository documents my journey of learning Python over 75 days. It's designed to be a helpful resource for other beginners who are starting their Python learning adventure.
 
 ## What's Inside
@@ -28,6 +24,7 @@ Here's a breakdown of the topics covered so far:
 - **Day 15:** Inheritance
 - **Day 16:** Polymorphism
 - **Day 17:** Encapsulation
+- **Day 18:** Abstraction
 
 (This list will be updated as I progress through the 75 days.)
 
@@ -58,8 +55,6 @@ I created this repository to document my own learning process and to share what 
 Contributions are welcome! If you find any errors, have suggestions for improvements, or want to add your own examples, please feel free to open an issue or submit a pull request.
 
 ## License
-
-(Consider adding a license like MIT or Apache 2.0. Here's how to add the MIT license)
 
 I will add MIT License soon.
 
