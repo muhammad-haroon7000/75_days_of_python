@@ -26,6 +26,7 @@ Here's a breakdown of the topics covered so far:
 - **Day 17:** Encapsulation
 - **Day 18:** Abstraction
 - **Day 19:** Operator Overloading
+- **Day 20:** Iterator
 
 (This list will be updated as I progress through the 75 days.)
 
@@ -65,7 +66,7 @@ You can reach me at [haroonmasood7000@gmail.com]
 
 ## Progress
 
-![Progress](https://img.shields.io/badge/Progress-23%25-green)
+![Progress](https://img.shields.io/badge/Progress-24%25-green)
 
 - [x] Day 01: Declaring Variables
 - [x] Day 02: Operators
@@ -85,7 +86,8 @@ You can reach me at [haroonmasood7000@gmail.com]
 - [x] Day 17: Encapsulation
 - [x] Day 18: Abstraction
 - [x] Day 19: Operator Overloading
-- [ ] Day 20: (Next Topic)
+- [x] Day 20: Iterator
+- [ ] Day 21: (Next Topic)
 - [ ] ... (and so on)
 
 ---
