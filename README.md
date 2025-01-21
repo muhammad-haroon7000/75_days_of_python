@@ -25,6 +25,7 @@ Here's a breakdown of the topics covered so far:
 - **Day 16:** Polymorphism
 - **Day 17:** Encapsulation
 - **Day 18:** Abstraction
+- **Day 19:** Operator Overloading
 
 (This list will be updated as I progress through the 75 days.)
 
@@ -83,7 +84,8 @@ You can reach me at [haroonmasood7000@gmail.com]
 - [x] Day 16: Polymorphism
 - [x] Day 17: Encapsulation
 - [x] Day 18: Abstraction
-- [ ] Day 19: (Next Topic)
+- [x] Day 19: Operator Overloading
+- [ ] Day 20: (Next Topic)
 - [ ] ... (and so on)
 
 ---
