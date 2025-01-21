@@ -27,6 +27,7 @@ Here's a breakdown of the topics covered so far:
 - **Day 18:** Abstraction
 - **Day 19:** Operator Overloading
 - **Day 20:** Iterator
+- **Day 21:** Generators
 
 (This list will be updated as I progress through the 75 days.)
 
@@ -87,7 +88,8 @@ You can reach me at [haroonmasood7000@gmail.com]
 - [x] Day 18: Abstraction
 - [x] Day 19: Operator Overloading
 - [x] Day 20: Iterator
-- [ ] Day 21: (Next Topic)
+- [x] Day 21: Generators
+- [ ] Day 22: (Next Topic)
 - [ ] ... (and so on)
 
 ---
